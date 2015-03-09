@@ -1,5 +1,5 @@
 # Taming the SUV
-The popularity of sport utiltiy vehicles (SUVs) and other light trucks such as pickups and minivans has taken a big bite out of efforts to improve air quality, and reduce global warming. 
+The popularity of sport utility vehicles (SUVs) and other light trucks such as pickups and minivans has taken a big bite out of efforts to improve air quality, and reduce global warming. 
 However, a new Union of Concerned Scientists report, Greener SUVs, shows that these high-way monstors can be tamed. 
 Using off-the-shelf technology, UCS enginners have created a blue-print for an SUV that meets high standards for fuel efficiency and emission control – with no loss of the teeth that makes SUVs so popular.
 Envirnomental regulations that govern fuel economy and tail pipe pollution from passenger vehicles continue to ignore light trucks. The average truck on the road today emits 47% more smog-forming exhaust and 43% more of the heat-trapping gases that cause global warming than the average car. The impact of this gap has been compounded by a dramatic shift in America’s passenger vehicle market. 
